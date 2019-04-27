@@ -20,7 +20,7 @@
   },
   "permissions": [
     "tabs",
-    "http://localhost:8000"
+    "http://localhost:8000/*"
   ],
   "content_scripts": [
     {
